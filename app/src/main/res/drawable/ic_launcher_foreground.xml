@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- SuperMoney Signature Adaptive Launcher Icon Mark -->
+    <!-- Piece 1: Bottom-Left Chevron Facet -->
+    <path
+        android:fillColor="#5E17EB"
+        android:pathData="M54.0,77.6 L28.2,47.2 L34.2,41.1 L38.8,45.6 L54.0,63.9 L54.0,77.6 Z" />
+
+    <!-- Piece 2: Center Stylized Rupee (₹) Symbol -->
+    <path
+        android:fillColor="#5E17EB"
+        android:pathData="M35.8,39.6 L43.4,32.0 L48.7,32.0 L45.6,38.0 L66.2,38.0 L66.2,43.4 L42.6,43.4 L39.6,47.2 L62.4,47.2 L62.4,52.5 L44.9,52.5 L60.8,68.4 L57.0,72.2 L43.4,57.8 L35.8,39.6 Z" />
+
+    <!-- Piece 3: Top-Right & Right Facet -->
+    <path
+        android:fillColor="#5E17EB"
+        android:pathData="M51.7,31.2 L64.6,31.2 L79.8,47.2 L68.4,60.8 L64.6,55.5 L64.6,52.5 L68.4,47.2 L68.4,43.4 L51.7,31.2 Z" />
+
+</vector>

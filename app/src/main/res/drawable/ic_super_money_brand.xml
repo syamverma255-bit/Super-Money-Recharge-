@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- SuperMoney Signature Brand Logo (Electric Purple Faceted Diamond with Stylized Rupee ₹) -->
+    <!-- Piece 1: Bottom-Left Chevron Facet -->
+    <path
+        android:fillColor="#5E17EB"
+        android:pathData="M100,158 L32,78 L48,62 L60,74 L100,122 L100,158 Z" />
+
+    <!-- Piece 2: Center Stylized Rupee (₹) Symbol & Lightning Recharge Element -->
+    <path
+        android:fillColor="#5E17EB"
+        android:pathData="M52,58 L72,38 L86,38 L78,54 L132,54 L132,68 L70,68 L62,78 L122,78 L122,92 L76,92 L118,134 L108,144 L72,106 L52,58 Z" />
+
+    <!-- Piece 3: Top-Right & Right Facet -->
+    <path
+        android:fillColor="#5E17EB"
+        android:pathData="M94,38 L128,38 L168,78 L138,114 L128,100 L128,92 L138,78 L138,68 L94,38 Z" />
+
+</vector>
